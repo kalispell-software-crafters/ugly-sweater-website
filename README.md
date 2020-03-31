@@ -4,7 +4,7 @@ An absolute minimalist website template that includes the creature comforts we'v
 
 To use this template you need to have [node.js](https://nodejs.org/) installed.
 
-To start a development server, run the following command:
+To start a development server, navigate to the project directory in a terminal and run the following command:
 
 ```sh
   npm start
