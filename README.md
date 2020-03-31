@@ -2,10 +2,12 @@
 
 An absolute minimalist website template that includes the creature comforts we've come to expect (bundling, babel, minifications, etc.).
 
+To use this template you need to have [node.js](https://nodejs.org/) installed.
+
 To start a development server, run the following command:
 
 ```sh
-  npm run dev
+  npm start
 ```
 
 To build the site for production, run:
