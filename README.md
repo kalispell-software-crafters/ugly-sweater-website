@@ -1,4 +1,8 @@
-# Basic Website Template
+# Ugly Sweater Website
+
+For one of our meetups we held a "contest" to create ugly sweater websites in spirit of the Holiday season. Here's the event page for reference: [https://www.meetup.com/Kalispell-Software-Crafters/events/273351215/](https://www.meetup.com/Kalispell-Software-Crafters/events/273351215/).
+
+## Basic Website Template
 
 An absolute minimalist website template that includes the creature comforts we've come to expect (bundling, babel, minifications, etc.).
 
